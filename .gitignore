@@ -16,3 +16,7 @@ GEMINI.md
 *.b2rec
 build-dp/
 build_float/
+bin/Debug-macosx-ARM64/Box2D/libBox2D.a
+Makefile
+bin-int/Debug-macosx-ARM64/Box2D/*.o
+bin-int/Debug-macosx-ARM64/Box2D/*.d
